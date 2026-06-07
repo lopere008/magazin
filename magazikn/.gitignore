@@ -1,0 +1,26 @@
+# ── Credentials & config locale ──
+config/db.local.php
+.env.local
+.env
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Éditeurs ──
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── PHP ──
+vendor/
+composer.lock
+
+# ── Logs & cache ──
+*.log
+/tmp/
+/cache/
+config/db.php
