@@ -102,5 +102,5 @@ Ouvrez ensuite [http://localhost:8000/authent.php](http://localhost:8000/authent
 
 ## Démo en ligne
 
-> Déployé sur InfinityFree : `magazin001infinityfree.great-site.net`
+> Déployé sur InfinityFree : `http://magazin001infinityfree.great-site.net/authent.php`
 
