@@ -104,10 +104,3 @@ Ouvrez ensuite [http://localhost:8000/authent.php](http://localhost:8000/authent
 
 > Déployé sur InfinityFree : `magazin001infinityfree.great-site.net`
 
----
-
-## Auteur
-
-**Okpeyemi Freddy Atchokossi**  
-Étudiant en Analyse Informatique et Programmation — ENEAM, Cotonou  
-GitHub : [@lopere008](https://github.com/lopere008)
