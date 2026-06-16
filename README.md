@@ -1,6 +1,6 @@
 # Magazikn — Plateforme de Gestion de Magasin
 
-Plateforme web de gestion de stock et de ventes, développée en PHP/MySQL dans le cadre d'un projet académique à l'ENEAM (Cotonou, Bénin).
+Plateforme web de gestion de stock et de ventes, développée en PHP/MySQL.
 
 ---
 
